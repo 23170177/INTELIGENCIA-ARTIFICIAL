@@ -15,3 +15,4 @@ public class App {
         arbol.iterativeDeepeningSearch(50);
     }
 }
+
