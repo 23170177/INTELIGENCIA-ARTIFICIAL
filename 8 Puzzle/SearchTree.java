@@ -223,3 +223,4 @@ public class SearchTree {
         System.out.println("No se encontró solución con búsqueda en anchura.");
     }
 }
+
